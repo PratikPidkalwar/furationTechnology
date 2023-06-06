@@ -106,3 +106,5 @@ The project includes the following bonus features:
 
 Pagination: The GET /api/items endpoint supports pagination for retrieving items in smaller chunks.
 Authentication/Authorization: The API endpoints can be protected with authentication/authorization middleware to restrict access.
+
+Testing: Api run with the help of postman and use NoSql database to storeed collection. 
